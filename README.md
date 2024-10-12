@@ -1,37 +1,74 @@
-# Hi there! 👋 I'm [Your Name]
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Your+Name]!;" />
+</h1>
 
-## 🚀 About Me
-I'm a passionate [Your Profession/Field] based in [Your Location]. I love [Brief description of your interests or what you do].
+<h3 align="center">A passionate software developer from [Your Country]</h3>
 
-## 🛠 Skills
-- Programming Languages: [e.g., Python, JavaScript, Java]
-- Frameworks & Libraries: [e.g., React, Django, TensorFlow]
-- Tools & Technologies: [e.g., Git, Docker, AWS]
+<br/>
 
-## 🔭 Current Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
+<div align="center">
+ 
+ 🔭 I'm currently working on **[Your Current Project]**
+ 
+ 🌱 I'm currently learning **[Technologies you're learning]**
 
-## 🌱 I'm currently learning
-- [Skill or technology you're learning]
-- [Another skill or technology]
+ 💬 Ask me about **[Your areas of expertise]**
 
-## 💼 Work Experience
-- [Current/Most Recent Job Title] at [Company] (Year - Present)
-- [Previous Job Title] at [Company] (Year - Year)
+ ⚡ Fun fact **[Your fun fact]**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:[your.email@example.com]">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://[your-portfolio-website].com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<br/>
+<hr/>
 
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+<hr/>
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=[YourGitHubUsername]&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=[YourGitHubUsername]&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/[YourKofiUsername]' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
