@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A8FFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ruchira+Jayamanna;Software+Developer;Fullstack+Engineer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A8FFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ruchira+Jayamanna;Fullstack+Developer;AI+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </div>
+
+<br />
+
+<p align="center">
+  <em>
+    Fullstack developer with a passion for crafting efficient, scalable solutions. <br />
+    Driven by a dream to harness the power of AI and push the boundaries of technology.
+  </em>
+</p>
 
 <br />
 
@@ -23,9 +32,9 @@
 
 <br />
 
-<h2 align="center">🛠️ My Favorite Tools</h2>
+<h2 align="center">🛠️ My Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,python,js,html,css,mysql,git,docker,vscode&perline=6" alt="My Favorite Tools" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,python,js,react,nodejs,html,css,mysql,git,docker,vscode&perline=7" alt="My Tech Stack" />
 </div>
 
 <br />
@@ -48,6 +57,18 @@
   <a href="https://linkedin.com/in/ruchira-jayamanna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://facebook.com/[YourFacebookUsername]" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/[YourInstagramUsername]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.threads.net/@[YourThreadsUsername]" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="https://twitter.com/[YourTwitterUsername]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="https://ruchirajayamanna.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -58,3 +79,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RuchiraJayamanna&color=6A8FFF&style=for-the-badge" alt="Profile Views" />
 </div>
+
+<br />
+
+<p align="center">
+  <em>"Exploring the frontiers of technology, one line of code at a time. Join me on this exciting journey!"</em>
+</p>
