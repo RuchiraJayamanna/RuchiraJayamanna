@@ -1,74 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Your+Name]!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from [Your Country]</h3>
-
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ruchira+Jayamanna;Software+Developer;Fullstack+Engineer;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
- 
- 🔭 I'm currently working on **[Your Current Project]**
- 
- 🌱 I'm currently learning **[Technologies you're learning]**
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=framer&logoColor=white" alt="Frappe" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext" />
+  <img src="https://img.shields.io/badge/AI-00B2FF?style=for-the-badge&logo=adobe&logoColor=white" alt="AI" />
+</div>
 
- 💬 Ask me about **[Your areas of expertise]**
+<br />
 
- ⚡ Fun fact **[Your fun fact]**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:[your.email@example.com]">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RuchiraJayamanna&show_icons=true&count_private=true&hide_border=true&title_color=A9B7C6&icon_color=A9B7C6&text_color=A9B7C6&bg_color=2B2B2B" alt="Ruchira's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=RuchiraJayamanna&theme=dark&hide_border=true&background=2B2B2B&stroke=A9B7C6&ring=A9B7C6&fire=A9B7C6&currStreakNum=A9B7C6&sideNums=A9B7C6&currStreakLabel=A9B7C6&sideLabels=A9B7C6&dates=A9B7C6" alt="Ruchira's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<details>
+  <summary><b>🚀 Current Focus</b></summary>
+  <br />
+  <ul>
+    <li>🔭 <b>Current Project:</b> FaceApp - A face detection tool integrating PHP, MySQL, and Google ML Kit.</li>
+    <li>🌱 <b>Learning:</b> Exploring OpenCV and Frappe for advanced AI-driven solutions.</li>
+    <li>💡 <b>Interests:</b> Blending AI with everyday web technologies.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>💻 Tech Stack</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,docker,vscode" alt="Tech Stack" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📊 GitHub Insights</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraJayamanna&layout=compact&hide_border=true&title_color=A9B7C6&text_color=A9B7C6&bg_color=2B2B2B" alt="Top Languages" />
+  </p>
+</details>
+
+<br />
+
+<div align="center">
+  <a href="mailto:ruchirajayamanna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/ruchira-jayamanna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://[your-portfolio-website].com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://ruchirajayamanna.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
+<br />
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=RuchiraJayamanna&color=brightgreen" alt="Profile Views" />
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=[YourGitHubUsername]&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=[YourGitHubUsername]&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
 <div align="center">
-<a href='https://ko-fi.com/[YourKofiUsername]' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/RuchiraJayamanna' target='_blank'>
+    <img height='48' style='border:0px;height:48px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
-
-<br/>
