@@ -1,20 +1,37 @@
-Hello 👋 I'm Ruchira (RJ)
+# Hi there! 👋 I'm [Your Name]
 
-🚀 About Me
+## 🚀 About Me
+I'm a passionate [Your Profession/Field] based in [Your Location]. I love [Brief description of your interests or what you do].
 
-I'm a Fullstack Developer with a passion for building scalable web applications and solving real-world problems. I love working with Frappe, Laravel, PHP, Python, and diving deep into various frameworks and libraries.
+## 🛠 Skills
+- Programming Languages: [e.g., Python, JavaScript, Java]
+- Frameworks & Libraries: [e.g., React, Django, TensorFlow]
+- Tools & Technologies: [e.g., Git, Docker, AWS]
 
+## 🔭 Current Projects
+- [Project 1]: Brief description
+- [Project 2]: Brief description
 
-🛠️ Technologies & Tools
+## 🌱 I'm currently learning
+- [Skill or technology you're learning]
+- [Another skill or technology]
 
-📈 GitHub Stats
-<a href="https://github.com/RuchiraJayamanna"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuchiraJayamanna&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraJayamanna&layout=compact&theme=radical"/> </a>
-🏆 Achievements
+## 💼 Work Experience
+- [Current/Most Recent Job Title] at [Company] (Year - Present)
+- [Previous Job Title] at [Company] (Year - Year)
 
-    🥇 Top contributor in [Project Name]
-    🏆 Open source contributions in [Open Source Project]
+## 📫 How to reach me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [@YourTwitterHandle]
 
-📫 Connect with Me
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-    LinkedIn: linkedin.com/in/RuchiraJayamanna
-    Email: donruchira123@gmail.com
+## 🏆 GitHub Trophies
+![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
+⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
