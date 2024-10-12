@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A8FFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ruchira+Jayamanna;Fullstack+Developer;AI+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A8FFF&center=true&vCenter=true&width=600&lines=Welcome+to+Digital+World!;I+am;Fullstack+Developer;AI+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </div>
 
 <br />
@@ -57,19 +57,19 @@
   <a href="https://linkedin.com/in/ruchira-jayamanna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/[YourFacebookUsername]" target="_blank">
+  <a href="https://facebook.com/ruchira.jayamanne" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/[YourInstagramUsername]" target="_blank">
+  <a href="https://www.instagram.com/ruchira_jayamanna" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.threads.net/@[YourThreadsUsername]" target="_blank">
+  <a href="https://www.threads.net/@ruchira_jayamanna" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://twitter.com/[YourTwitterUsername]" target="_blank">
+  <a href="https://x.com/DonRuchira_RJ" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://ruchirajayamanna.github.io" target="_blank">
+  <a href="https://ruchirajayamanna.wuaze.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
