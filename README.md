@@ -51,16 +51,16 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center">
-  <a href="mailto:ruchirajayamanna@gmail.com">
+  <a href="mailto:donruchira123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ruchira-jayamanna" target="_blank">
+  <a href="https://www.linkedin.com/in/ruchirajayamanna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/ruchira.jayamanne" target="_blank">
+  <a href="https://www.facebook.com/ruchira.jayamanne/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/ruchira_jayamanna" target="_blank">
+  <a href="https://www.instagram.com/ruchira_jayamanna/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.threads.net/@ruchira_jayamanna" target="_blank">
